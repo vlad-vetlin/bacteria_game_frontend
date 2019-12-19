@@ -1,0 +1,12 @@
+{
+  "name": "bacteria_game_frontend",
+  "scripts": {
+    "dev": "NODE_ENV=develop nuxt"
+  },
+  "dependencies": {
+    "nuxt": "^2.11.0",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {},
+  "author": "green_tea"
+}
