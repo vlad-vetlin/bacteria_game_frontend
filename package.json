@@ -4,7 +4,7 @@
     "dev": "NODE_ENV=develop nuxt"
   },
   "dependencies": {
-    "nuxt": "^2.11.0",
+    "nuxt": "^2.15.8",
     "vue": "^2.6.11"
   },
   "devDependencies": {},
